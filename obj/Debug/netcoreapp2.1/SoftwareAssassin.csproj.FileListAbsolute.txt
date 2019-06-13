@@ -1,0 +1,14 @@
+E:\LUKA\PROGRAMIRANJE\PROJECTS\SoftwareAssassin\SoftwareAssassin\bin\Debug\netcoreapp2.1\SoftwareAssassin.deps.json
+E:\LUKA\PROGRAMIRANJE\PROJECTS\SoftwareAssassin\SoftwareAssassin\bin\Debug\netcoreapp2.1\SoftwareAssassin.runtimeconfig.json
+E:\LUKA\PROGRAMIRANJE\PROJECTS\SoftwareAssassin\SoftwareAssassin\bin\Debug\netcoreapp2.1\SoftwareAssassin.runtimeconfig.dev.json
+E:\LUKA\PROGRAMIRANJE\PROJECTS\SoftwareAssassin\SoftwareAssassin\bin\Debug\netcoreapp2.1\SoftwareAssassin.dll
+E:\LUKA\PROGRAMIRANJE\PROJECTS\SoftwareAssassin\SoftwareAssassin\bin\Debug\netcoreapp2.1\SoftwareAssassin.pdb
+E:\LUKA\PROGRAMIRANJE\PROJECTS\SoftwareAssassin\SoftwareAssassin\obj\Debug\netcoreapp2.1\SoftwareAssassin.csprojAssemblyReference.cache
+E:\LUKA\PROGRAMIRANJE\PROJECTS\SoftwareAssassin\SoftwareAssassin\obj\Debug\netcoreapp2.1\SoftwareAssassin.csproj.CoreCompileInputs.cache
+E:\LUKA\PROGRAMIRANJE\PROJECTS\SoftwareAssassin\SoftwareAssassin\obj\Debug\netcoreapp2.1\SoftwareAssassin.RazorAssemblyInfo.cache
+E:\LUKA\PROGRAMIRANJE\PROJECTS\SoftwareAssassin\SoftwareAssassin\obj\Debug\netcoreapp2.1\SoftwareAssassin.RazorAssemblyInfo.cs
+E:\LUKA\PROGRAMIRANJE\PROJECTS\SoftwareAssassin\SoftwareAssassin\obj\Debug\netcoreapp2.1\SoftwareAssassin.AssemblyInfoInputs.cache
+E:\LUKA\PROGRAMIRANJE\PROJECTS\SoftwareAssassin\SoftwareAssassin\obj\Debug\netcoreapp2.1\SoftwareAssassin.AssemblyInfo.cs
+E:\LUKA\PROGRAMIRANJE\PROJECTS\SoftwareAssassin\SoftwareAssassin\obj\Debug\netcoreapp2.1\SoftwareAssassin.RazorTargetAssemblyInfo.cache
+E:\LUKA\PROGRAMIRANJE\PROJECTS\SoftwareAssassin\SoftwareAssassin\obj\Debug\netcoreapp2.1\SoftwareAssassin.dll
+E:\LUKA\PROGRAMIRANJE\PROJECTS\SoftwareAssassin\SoftwareAssassin\obj\Debug\netcoreapp2.1\SoftwareAssassin.pdb
